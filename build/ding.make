@@ -207,6 +207,12 @@ projects[dynamo][download][type] = "git"
 projects[dynamo][download][url] = "https://github.com/dingproject/dynamo.git"
 projects[dynamo][download][revision] = "v2.1.5"
 
+; Vejen theme
+
+projects[varde][type] = "theme"
+projects[varde][download][git] = "git"
+projects[varde][download][url] = "https://github.com/vardebib/varde.git"
+
 ; Ding modules
 
 projects[alma][type] = "module"
