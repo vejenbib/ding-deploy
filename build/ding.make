@@ -209,9 +209,9 @@ projects[dynamo][download][revision] = "v2.1.5"
 
 ; Vejen theme
 
-projects[varde][type] = "theme"
-projects[varde][download][git] = "git"
-projects[varde][download][url] = "https://github.com/vardebib/varde.git"
+projects[vejen][type] = "theme"
+projects[vejen][download][git] = "git"
+projects[vejen][download][url] = "https://github.com/vejenbib/vejen.git"
 
 ; Ding modules
 
