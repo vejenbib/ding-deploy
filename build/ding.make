@@ -210,7 +210,7 @@ projects[dynamo][download][revision] = "v2.1.5"
 ; Vejen theme
 
 projects[vejen][type] = "theme"
-projects[vejen][download][git] = "git"
+projects[vejen][download][type] = "git"
 projects[vejen][download][url] = "https://github.com/vejenbib/vejen.git"
 
 ; Ding modules
